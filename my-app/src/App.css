@@ -1,0 +1,9 @@
+@import '~antd/dist/antd.css';
+
+.ant-menu.ant-menu-dark .ant-menu-item-selected {
+    background-color: transparent;
+}
+
+.ant-modal-header {
+    text-align: center;
+}
