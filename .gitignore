@@ -1,0 +1,5 @@
+./my-app/node_modules
+/server/node_modules
+package-lock.json
+.idea
+/node_modules
